@@ -1,0 +1,37 @@
+export default chatFaceData=[
+    {
+        id:1,
+        name:'Noyi',
+        image:require('../Assets/Noyi.png'),
+        primary:'#FFC107',
+        secondary:''
+    },
+    {
+        id:2,
+        name:'Pogu',
+        image:require('../Assets/Pogu.png'),
+        primary:'#E53057',
+        secondary:''
+    },
+    {
+        id:3,
+        name:'Nista',
+        image:require('../Assets/Nista.png'),
+        primary:'#3B96D2',
+        secondary:''
+    },
+    {
+        id:4,
+        name:'Estor',
+        image:require('../Assets/Estor.png'),
+        primary:'#37474F',
+        secondary:''
+    },
+    {
+        id:5,
+        name:'Pega',
+        image:require('../Assets/Pega.png'),
+        primary:'#2473FE',
+        secondary:''
+    },
+]
